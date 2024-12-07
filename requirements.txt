@@ -1,0 +1,8 @@
+selenium
+langchain
+langchain-community
+langchain-openai
+unstructured
+markdown
+python-dotenv
+# python.exe -m pip install --upgrade pip
