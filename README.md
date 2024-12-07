@@ -4,7 +4,7 @@ Códigos iniciais da minha ferramenta pessoal de news scraping com selenium e la
 
 #### Last output: 
 
-Playstation: ign.com/news/playstation 
+Playstation: https://ign.com/news/playstation 
 
 1. New Warhammer 40,000: Space Marine 2 Screenshots Shows a Blood Raven Holding a Relic for Your Entertainment - 1h ago
 2. Sony's Original Grand Theft Auto PlayStation Exclusivity Deal Partially a Reaction to Xbox - 5h ago
@@ -17,7 +17,7 @@ Playstation: ign.com/news/playstation
 9. Ubisoft Share Price Skyrockets as Tencent Buyout Rumors Intensify - 14h ago
 10. Life Is Strange: Double Exposure Studio Deck Nine Hit With More Layoffs - 1d ago
 
-Nintendo: ign.com/news/nintendo 
+Nintendo: https://ign.com/news/nintendo 
 
 1. Predator: Hunting Grounds and Killer Klowns From Outer Space Developer IllFonic Hit With Layoffs - 1h ago
 2. Next Game From It Takes Two Developer Hazelight Studios Leaks Online Alongside Release Date - 9h ago
