@@ -4,6 +4,7 @@ Códigos iniciais da minha ferramenta pessoal de news scraping com selenium e la
 
 #### Last output: 
 
+```
 Playstation: https://ign.com/news/playstation 
 
 1. New Warhammer 40,000: Space Marine 2 Screenshots Shows a Blood Raven Holding a Relic for Your Entertainment - 1h ago
@@ -29,3 +30,4 @@ Nintendo: https://ign.com/news/nintendo
 8. The Thing Remastered Release Date Revealed - 3d ago
 9. Life Is Strange: Double Exposure Studio Deck Nine Hit With More Layoffs - 4d ago
 10. Microsoft Announces Xbox Game Pass December 2024 Wave 1 Lineup - 7d ago
+```
