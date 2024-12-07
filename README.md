@@ -2,6 +2,10 @@
 
 Códigos iniciais da minha ferramenta pessoal de news scraping com selenium e langchain integrado ao meu obsidian.
 
+#### estrutura 
+
+
+
 #### Last output: 
 
 ```
