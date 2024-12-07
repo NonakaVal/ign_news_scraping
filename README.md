@@ -4,7 +4,15 @@ Códigos iniciais da minha ferramenta pessoal de news scraping com selenium e la
 
 #### estrutura 
 
-
+```
+ign_news_scraping/
+├── utils/
+│   └── ProcessMarkdown.py
+│   └── SeleniumScrapingConfig.py
+├── main.py
+├── requeriments.txt
+└── README.md
+```
 
 #### Last output: 
 
